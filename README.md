@@ -5,3 +5,5 @@ Build a Machine Learning web application from scratch in Python with Streamlit. 
 
 ### Data: https://survey.stackoverflow.co/
 
+[![Alt text](https://github.com/shahidulislam-cse/Salary-Prediction/blob/main/Predict.png)]()  
+
